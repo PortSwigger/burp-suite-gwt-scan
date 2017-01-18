@@ -8,4 +8,4 @@ ProOnly: True
 Author: August Detlefsen
 ShortDescription: Automatically identifies insertion points for GWT (Google Web Toolkit) requests.
 EntryPoint: build/libs/gwt-insertion-points-all.jar
-BuildCommand: gradle -PburpJar=$BURP_JAR fatJar
+BuildCommand: gradle fatJar
