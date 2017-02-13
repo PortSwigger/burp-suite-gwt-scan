@@ -1,6 +1,7 @@
 Uuid: a0740678763a4c748bbe7c79151cbe00
 ExtensionType: 1
 Name: GWT Insertion Points
+RepoName: gwt-insertion-points
 ScreenVersion: 1.2
 SerialVersion: 3
 MinPlatformVersion: 0
