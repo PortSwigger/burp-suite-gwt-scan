@@ -3,10 +3,11 @@ ExtensionType: 1
 Name: GWT Insertion Points
 RepoName: gwt-insertion-points
 ScreenVersion: 1.2
-SerialVersion: 3
+SerialVersion: 4
 MinPlatformVersion: 0
 ProOnly: True
 Author: August Detlefsen
 ShortDescription: Automatically identifies insertion points for GWT (Google Web Toolkit) requests.
 EntryPoint: build/libs/gwt-insertion-points-all.jar
 BuildCommand: gradle fatJar
+SupportedProducts: Pro, Enterprise
